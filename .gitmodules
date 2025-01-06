@@ -1,3 +1,6 @@
 [submodule "chat_service"]
 	path = chat_service
 	url = https://github.com/vakhrushevk/chat-server-service/
+[submodule "message_service"]
+	path = message_service
+	url = https://github.com/vakhrushevk/message_service
